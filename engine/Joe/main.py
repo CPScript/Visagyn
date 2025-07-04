@@ -890,7 +890,7 @@ class EnhancedCameraApp:
         os.environ['OPENCV_LOG_LEVEL'] = 'SILENT'
         
         self.root = ctk.CTk()
-        self.root.title("Visagyn - AI Driven Facial Engine")
+        self.root.title("Visagyn - Joe Edition")
         self.root.geometry("1250x1000")
         self.root.configure(fg_color=("#f0f0f0", "#1a1a1a"))
         
@@ -2272,7 +2272,7 @@ def install_dependencies():
         sys.exit(1)
     
     print("=" * 70)
-    print("Visagyn - AI Driven Facial Engine")
+    print("Visagyn - Joe Edition")
     print("=" * 70)
     
     optional_deps = [
