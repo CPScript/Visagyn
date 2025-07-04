@@ -6,7 +6,7 @@ color 0A
 
 echo.
 echo ================================================================================
-echo                     VISAGYN AI DRIVEN FACIAL TRACKING ENGINE v1.0.0 (joe edition) (aka, shitty ai upscaling addition)
+echo                     VISAGYN AI DRIVEN FACIAL TRACKING ENGINE v1.0.0 (joe edition) (aka, very bad ai upscaling addition)
 echo                        Dependency Installer ^& Launcher
 echo ================================================================================
 echo.
